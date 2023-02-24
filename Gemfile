@@ -36,7 +36,7 @@ gem 'doorkeeper', '~> 5.5.0.rc2'
 gem 'doorkeeper-openid_connect', '~> 1.7.5'
 gem 'rexml', '~> 3.2.5'
 gem 'ruby-saml', '~> 1.13.0'
-gem 'omniauth', '~> 1.8'
+gem 'omniauth', '~> 1.9'
 gem 'omniauth-auth0', '~> 2.0.0'
 gem 'omniauth-azure-activedirectory-v2', '~> 1.0'
 gem 'omniauth-azure-oauth2', '~> 0.0.9' # See vendor/gems/omniauth-azure-oauth2/README.md
